@@ -15,12 +15,12 @@ The editors/compilators bring together texts from authors they are in touch with
 In the case of more anthologies of authors from chronologically or geographically more distant contexts, the editors/compilators will be more likely to include texts they can get hold via their intellectual network.
 In any case, it is rewarding to analyse which texts are chosen.
  
-Two major project have devoted scholarly attention to anthologies, notably the *Delitiae*. These are:
+Two major project have devoted scholarly attention to anthologies. These are:
 
 - [Bridging the Continental divide: neo-Latin and its cultural role in Jacobean Scotland, as seen in the Delitiae Poetarum Scotorum (1637)](https://www.dps.gla.ac.uk/)
-- [Carmina Suecorum Poetarum Latina](https://www.twitter.com/carmina_latina)
+- [Carmina Suecorum Poetarum Latina](https://www.twitter.com/carmina_latina), working on  Samuel Älf's (1727-1799) manuscript collection of Swedish Neo-Latin poetry (project description [here](https://www.rj.se/en/grants/2021/the-carmina-suecorum-poetarum-latina-of-samuel-alf/))
 
-In this repository, I would like to provide OCRed texts at least of Gruterus' *Delitiae* which can be the basis of a more carefully TEI-encoded edition.
+In this repository, I would like to provide OCRed texts at least of Gruterus' *Delitiae* which will be the basis of a (rough and not too elaborate) TEI-encoded edition.
 
 It would be useful to:
 
