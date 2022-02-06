@@ -1,14 +1,44 @@
 # Neo-Latin Anthologies (until c. 1900)
 
-## Delitiae
+## Introduction
 
-### Delitiae C. Poetarum Gallorum (3 voll., Frankfurt 1609)
+Anthologies of Neo-Latin poetry are a sorely understudied subject.
+Yet, they not only are useful as a selection from the huge, that can help us navigate in the *mare magnum* of Neo-Latin poetry.
+They are very likely to have had an impact on the development of Neo-Latin literature as well.
+By selecting, they inform a canon of 'good' poetry worthy to be read and imitated.
+Poetry in successful anthologies circulates more widely and has probably a more significant influence on other poets.
+
+Morever, an anthology is not just a compilation of texts.
+It also mirrors more often than not a social network.
+This is most apparent in the case of anthologies of contemporary poets.
+The editors/compilators bring together texts from authors they are in touch with.
+In the case of more anthologies of authors from chronologically or geographically more distant contexts, the editors/compilators will be more likely to include texts they can get hold via their intellectual network.
+In any case, it is rewarding to analyse which texts are chosen.
+ 
+Two major project have devoted scholarly attention to anthologies, notably the *Delitiae*. These are:
+
+- [Bridging the Continental divide: neo-Latin and its cultural role in Jacobean Scotland, as seen in the Delitiae Poetarum Scotorum (1637)](https://www.dps.gla.ac.uk/)
+- [Carmina Suecorum Poetarum Latina](https://www.twitter.com/carmina_latina)
+
+In this repository, I would like to provide OCRed texts at least of Gruterus' *Delitiae* which can be the basis of a more carefully TEI-encoded edition.
+
+It would be useful to:
+
+- get a list of all anthologized authors
+- a list of the poems in the anthologies
+- a list of (possible) sources
+
+## Anthologies 
+
+### Delitiae
+
+#### Delitiae C. Poetarum Gallorum (3 voll., Frankfurt 1609)
 
 - [vol. 1](https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%2723:297731M%27)
 - [vol. 2](https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%2723:297735S%27)
 - [vol. 3](https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%2723:297737G%27)
 
-### Delitiae Poetarum Germanorum (6 voll., Frankfurt 1612)
+#### Delitiae Poetarum Germanorum (6 voll., Frankfurt 1612)
 
 - [vol. 1](https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%273:300846D%27)
 - [vol. 2](https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%273:300848U%27)
@@ -17,34 +47,34 @@
 - [vol. 5](https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%273:300854V%27)
 - [vol. 6](https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%273:300856L%27)
 
-### Delitiae Poetarum Italorum (2 voll., Frankfurt 1608)
+#### Delitiae Poetarum Italorum (2 voll., Frankfurt 1608)
 
 - [vol. 1](https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%2739:120854X%27)
 - [vol. 2](https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%273:308399S%27)
 
-### [Delitiae Poetarum Belgicorum (4 voll., Frankfurt 1614)]{.c7} {#h.airn1s8o0lm2 .c3}
+#### Delitiae Poetarum Belgicorum (4 voll., Frankfurt 1614)
 
 - [vol. 1](https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%273:308346M%27)
 - [vol. 2](https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%273:308347U%27)
 - [vol. 3](https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%273:308353V%27)
 - [vol. 4](https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%273:308349K%27)
 
-### Delitiae Poetarum Scotorum (2 voll., Amst. 1637)
+#### Delitiae Poetarum Scotorum (2 voll., Amst. 1637)
 
 - [vol. 1 (Amsterdam 1637)](https://books.google.de/books?id=n39EAAAAcAAJ)
 - [vol. 2 (Amsterdam 1637)](https://books.google.de/books?id=p1cUWDW1uwkC)
 
-### Delitiae Poetarum Danorum (2 voll., Lugd. B. 1693)
+#### Delitiae Poetarum Danorum (2 voll., Lugd. B. 1693)
 
 - [vol. 1 (Leiden 1693)](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608860-0)
 - [vol. 2 (Leiden 1693)](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608861-6)
 
-### Delitiae poetarum Hungarorum (1 vol., Frankfurt 1619)
+#### Delitiae poetarum Hungarorum (1 vol., Frankfurt 1619)
 
 - [Frankfurt 1619](https://books.google.de/books?id=mVUgyO9-ZfMC)
 
 
-## Miscellaneous
+### Miscellaneous
 
 | title | editor | volumes |
 | --- | --- | --- |
