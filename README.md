@@ -129,6 +129,6 @@ If you would like to add or correct something or if you have questions, [open a 
 
 If you wish to cite or refer to this page, you could do so as follows:
 
-Winkler, Alexander: "Neo-Latin anthologies" (2023), <https://doi.org/10.5281/zenodo.8475>
+Winkler, Alexander: "Neo-Latin anthologies" (2023), <https://doi.org/10.5281/zenodo.7921137>
 
-![[DOI](https://doi.org/10.5281/zenodo.8475)](https://zenodo.org/badge/doi/10.5281/zenodo.8475.svg)
+[![DOI](https://zenodo.org/badge/456126500.svg)](https://zenodo.org/badge/latestdoi/456126500)
