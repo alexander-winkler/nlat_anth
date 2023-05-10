@@ -3,7 +3,7 @@
 ## Introduction
 
 Anthologies of Neo-Latin poetry are a sorely understudied subject.
-Yet, they not only are useful as a selection from the huge, that can help us navigate in the *mare magnum* of Neo-Latin poetry.
+Yet, they not only are useful as a selection, that can help us navigate in the *mare magnum* of Neo-Latin poetry.
 They are very likely to have had an impact on the development of Neo-Latin literature as well.
 By selecting, they inform a canon of 'good' poetry worthy to be read and imitated.
 Poetry in successful anthologies circulates more widely and has probably a more significant influence on other poets.
@@ -11,22 +11,17 @@ Poetry in successful anthologies circulates more widely and has probably a more 
 Morever, an anthology is not just a compilation of texts.
 It also mirrors more often than not a social network.
 This is most apparent in the case of anthologies of contemporary poets.
-The editors/compilators bring together texts from authors they are in touch with.
-In the case of more anthologies of authors from chronologically or geographically more distant contexts, the editors/compilators will be more likely to include texts they can get hold via their intellectual network.
+The editors/compilators bring together texts from authors they directly or indirectly are in touch with.
+In the case of anthologies of authors from chronologically or geographically more distant contexts, the editors/compilators will be more likely to include texts they can get hold of via their intellectual network.
 In any case, it is rewarding to analyse which texts are chosen.
  
-Two major project have devoted scholarly attention to anthologies. These are:
+Two major project have so far devoted scholarly attention to anthologies.
+These are:
 
 - [Bridging the Continental divide: neo-Latin and its cultural role in Jacobean Scotland, as seen in the Delitiae Poetarum Scotorum (1637)](https://www.dps.gla.ac.uk/)
 - [Carmina Suecorum Poetarum Latina](https://www.twitter.com/carmina_latina), working on  Samuel Älf's (1727-1799) manuscript collection of Swedish Neo-Latin poetry (project description [here](https://www.rj.se/en/grants/2021/the-carmina-suecorum-poetarum-latina-of-samuel-alf/))
 
-In this repository, I would like to provide OCRed texts at least of Gruterus' *Delitiae* which will be the basis of a (rough and not too elaborate) TEI-encoded edition.
-
-It would be useful to:
-
-- get a list of all anthologized authors
-- a list of the poems in the anthologies
-- a list of (possible) sources
+In this repository, I present a link list of noteworthy Neo-Latin anthologies, most notably Gruterus' *Delitiae*.
 
 ## Anthologies 
 
@@ -107,3 +102,31 @@ It would be useful to:
 | Eclogae recentiorum carminum Latinorum | Mitscherlich, Christoph Wilhelm | Hannover 1793 |
 
 
+
+## License
+
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="https://licensebuttons.net/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="https://orcid.org/0000-0002-9145-7238">
+    <span property="dct:title">Alexander Winkler</span></a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">Neo-Latin anthologies</span>.
+This work is published from:
+<span property="vcard:Country" datatype="dct:ISO3166"
+      content="DE" about="https://orcid.org/0000-0002-9145-7238">
+  Germany</span>.
+</p>
+
+
+Feel free to do whatever you want with the above collection of links.
+If you would like to add or correct something or if you have questions, [open a GitHub Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue), [create a Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) or just [drop me a line](mailto:alexander_winkler@posteo.de).
+
+If you wish to cite or refer to this page, you could do so as follows:
+
+Winkler, Alexander: "Neo-Latin anthologies" (2023), <DOI>
